@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @OnlyMeHere
 - 👀 I’m interested in creating app's for IPhone
-- 🌱 I’m currently learning Swift from the AppBrewery.co
-- 💞️ I’m looking to collaborate on IOS Coding Boot Camp
+- 🌱 I’m currently enrolled in UCB Extention Coding Bootcamp
 - 📫 How to reach me ...
 
 <!---
